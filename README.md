@@ -28,5 +28,3 @@ The dataset includes air quality measurements such as PM2.5, PM10, CO, NO2, and 
 
 ## Author
 - Armaan Moledina
-
-You can view and further edit the README file [here](https://github.com/ArmaanMoledin63/Air-Quality-Prediction-using-ML-Models-/blob/main/README.md).
