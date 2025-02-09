@@ -118,6 +118,6 @@ model.fit(X_train, y_train)
 - Enhanced visualization capabilities
 - Automated reporting system
 
-## Authors
+## Author
 
 Created by Armaan Moledina
