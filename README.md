@@ -1,4 +1,3 @@
-Here is an enhanced version of your README for the "Air-Quality-Prediction-using-ML-Models-" repository:
 
 # Air Quality Prediction using ML Models
 
